@@ -1,0 +1,28 @@
+Day #1: the longest nap starts at 15:31 and will last for 2 hours and 29 minutes.
+Day #2: the longest nap starts at 10:00 and will last for 8 hours and 0 minutes.
+Day #3: the longest nap starts at 11:30 and will last for 30 minutes.
+Day #4: the longest nap starts at 15:00 and will last for 30 minutes.
+Day #5: the longest nap starts at 15:00 and will last for 1 hours and 45 minutes.
+Day #6: the longest nap starts at 17:15 and will last for 45 minutes.
+Day #7: the longest nap starts at 13:00 and will last for 5 hours and 0 minutes.
+Day #8: the longest nap starts at 12:59 and will last for 5 hours and 0 minutes.
+Day #9: the longest nap starts at 10:00 and will last for 6 hours and 0 minutes.
+Day #10: the longest nap starts at 15:00 and will last for 30 minutes.
+Day #11: the longest nap starts at 15:00 and will last for 1 hours and 45 minutes.
+Day #12: the longest nap starts at 17:15 and will last for 45 minutes.
+Day #13: the longest nap starts at 10:00 and will last for 8 hours and 0 minutes.
+Day #14: the longest nap starts at 13:00 and will last for 5 hours and 0 minutes.
+Day #15: the longest nap starts at 10:00 and will last for 2 hours and 0 minutes.
+Day #16: the longest nap starts at 10:00 and will last for 1 hours and 0 minutes.
+Day #17: the longest nap starts at 14:59 and will last for 1 hours and 1 minutes.
+Day #18: the longest nap starts at 12:19 and will last for 52 minutes.
+Day #19: the longest nap starts at 10:00 and will last for 2 hours and 0 minutes.
+Day #20: the longest nap starts at 15:59 and will last for 2 hours and 1 minutes.
+Day #21: the longest nap starts at 11:00 and will last for 2 hours and 0 minutes.
+Day #22: the longest nap starts at 10:00 and will last for 3 hours and 0 minutes.
+Day #23: the longest nap starts at 10:12 and will last for 2 hours and 49 minutes.
+Day #24: the longest nap starts at 10:00 and will last for 3 hours and 59 minutes.
+Day #25: the longest nap starts at 14:01 and will last for 3 hours and 59 minutes.
+Day #26: the longest nap starts at 11:01 and will last for 59 minutes.
+Day #27: the longest nap starts at 11:05 and will last for 2 hours and 13 minutes.
+Day #28: the longest nap starts at 10:00 and will last for 1 hours and 59 minutes.

@@ -1,0 +1,5 @@
+4
+10:00 12:00 Lectures
+12:00 13:00 Lunch, like always.
+12:00 12:05 Boring lectures...
+15:30 17:45 Reading

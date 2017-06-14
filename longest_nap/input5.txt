@@ -1,0 +1,210 @@
+5
+12:01 13:00 Meeting with Lucius Fox
+13:00 15:00 Repairing batmobile
+15:30 15:31 Posing for Financial Times
+11:00 12:00 Exercise
+12:00 12:01 Owning Joker
+0
+102
+14:10 17:30 Lectures101
+12:00 12:01 Lectures1
+12:01 12:02 Lectures2
+12:02 12:03 Lectures3
+12:03 12:04 Lectures4
+12:04 12:05 Lectures5
+12:05 12:06 Lectures6
+12:06 12:07 Lectures7
+12:07 12:08 Lectures8
+12:08 12:09 Lectures9
+12:09 12:10 Lectures10
+12:10 12:11 Lectures11
+12:11 12:12 Lectures12
+12:12 12:13 Lectures13
+12:13 12:14 Lectures14
+12:14 12:15 Lectures15
+12:15 12:16 Lectures16
+12:16 12:17 Lectures17
+12:17 12:18 Lectures18
+12:18 12:19 Lectures19
+12:19 12:20 Lectures20
+12:20 12:21 Lectures21
+12:21 12:22 Lectures22
+12:22 12:23 Lectures23
+12:23 12:24 Lectures24
+12:24 12:25 Lectures25
+12:25 12:26 Lectures26
+12:26 12:27 Lectures27
+12:27 12:28 Lectures28
+12:28 12:29 Lectures29
+12:29 12:30 Lectures30
+12:30 12:31 Lectures31
+12:31 12:32 Lectures32
+12:32 12:33 Lectures33
+12:33 12:34 Lectures34
+12:34 12:35 Lectures35
+12:35 12:36 Lectures36
+12:36 12:37 Lectures37
+12:37 12:38 Lectures38
+12:38 12:39 Lectures39
+12:39 12:40 Lectures40
+12:40 12:41 Lectures41
+12:41 12:42 Lectures42
+12:42 12:43 Lectures43
+12:43 12:44 Lectures44
+12:44 12:45 Lectures45
+12:45 12:46 Lectures46
+12:46 12:47 Lectures47
+12:47 12:48 Lectures48
+12:48 12:49 Lectures49
+12:49 12:50 Lectures50
+12:50 12:51 Lectures51
+12:51 12:52 Lectures52
+12:52 12:53 Lectures53
+12:53 12:54 Lectures54
+12:54 12:55 Lectures55
+12:55 12:56 Lectures56
+12:56 12:57 Lectures57
+12:57 12:58 Lectures58
+12:58 12:59 Lectures59
+12:59 13:00 Lectures60
+13:00 13:01 Lectures61
+13:01 13:02 Lectures62
+13:02 13:03 Lectures63
+13:03 13:04 Lectures64
+13:04 13:05 Lectures65
+13:05 13:06 Lectures66
+13:06 13:07 Lectures67
+13:07 13:08 Lectures68
+13:08 13:09 Lectures69
+13:09 13:10 Lectures70
+13:10 13:11 Lectures71
+13:11 13:12 Lectures72
+13:12 13:13 Lectures73
+13:13 13:14 Lectures74
+13:14 13:15 Lectures75
+13:15 13:16 Lectures76
+13:16 13:17 Lectures77
+13:17 13:18 Lectures78
+13:18 13:19 Lectures79
+13:19 13:20 Lectures80
+13:20 13:21 Lectures81
+13:21 13:22 Lectures82
+13:22 13:23 Lectures83
+13:23 13:24 Lectures84
+13:24 13:25 Lectures85
+13:25 13:26 Lectures86
+13:26 13:27 Lectures87
+13:27 13:28 Lectures88
+13:28 13:29 Lectures89
+13:29 13:30 Lectures90
+13:30 13:31 Lectures91
+13:31 13:32 Lectures92
+13:32 13:33 Lectures93
+13:33 13:34 Lectures94
+13:34 13:35 Lectures95
+13:35 13:36 Lectures96
+13:36 13:37 Lectures97
+13:37 13:38 Lectures98
+13:38 13:39 Lectures99
+13:39 13:40 Lectures100
+10:29 11:30 Lectures102
+4
+13:00 15:00 Boring lectures...
+15:30 17:45 Reading
+10:00 12:00 Lectures
+12:00 13:00 Lunch, like always.
+4
+10:00 12:00 Lectures
+13:00 15:00 Lectures, lectures... oh, no!
+16:45 17:45 Reading (to be or not to be?)
+12:00 13:00 Lunch, just lunch.
+4
+12:00 13:00 Lunch, again!!!
+10:00 12:00 Lectures, as everyday.
+15:30 17:15 Reading (I love reading, but should I schedule it?)
+13:00 15:00 Lectures, more lectures!
+1
+12:00 13:00 I love lunch! Have you ever noticed it?
+3
+10:00 10:01 Lectures, as everyday.
+12:00 12:59
+17:59 18:00 Lunch, again!!!
+1
+16:00 18:00 Lectures
+4
+10:00 12:00 Lectures
+12:00 13:00 Lunch, like always.
+13:00 15:00 Boring lectures...
+15:30 17:45 Reading
+4
+10:00 12:00 Lectures
+12:00 13:00 Lunch, just lunch.
+13:00 15:00 Lectures, lectures... oh, no!
+16:45 17:45 Reading (to be or not to be?)
+4
+10:00 12:00 Lectures, as everyday.
+12:00 13:00 Lunch, again!!!
+13:00 15:00 Lectures, more lectures!
+15:30 17:15 Reading (I love reading, but should I schedule it?)
+0
+1
+12:00 13:00 I love lunch! Have you ever noticed it? :)
+3
+12:00 13:00 Huh? I just wondered!
+13:35 14:05 Lecture just a little.
+14:30 16:30 Last lecture, go home.
+5
+11:00 11:45 Talking, blah, blah, blah.
+12:30 13:30 Blah, double blah.
+14:30 15:30 Hmmmmmmmmmmmmmmmmmmmm.
+16:30 17:30 OKKKKKKKKKKKKKKKKKKKK.
+17:30 18:00 Er, done.
+6
+16:00 16:20 Making whoopee
+10:00 10:35 Coffee time
+12:20 12:59 Breaking bread
+16:20 18:00 Last Lecture
+13:45 14:59 Lecture History
+10:35 12:10 Lectue Weasel
+3
+10:07 12:19 Football game
+13:11 16:17 Why why why me?
+16:59 17:30 Nanananna Music :D
+1
+12:00 16:00 Burdens up my ass
+1
+12:00 15:59           Miserable At Best
+3
+15:00 17:00 Hey, don't blow a fuse!
+13:00 15:00 Codeforces contest!!
+10:00 11:00 Dinner time....yeaa :D
+3
+13:00 14:00 Shower
+14:00 15:00 Again Shower!
+15:00 16:00 Not again :(
+3
+10:00 10:12 Good night mommy
+13:01 13:14 Masturbating time/Quickie
+14:10 15:57 Secret Research!
+1
+13:59 14:01 Do you know what this means?
+1
+13:58 14:01 Got a buck to spare dude?
+9
+17:57 17:59     Aaaaaaaaaaaaaaaa
+13:13 13:58 Break time :D
+10:05 10:15 Solving this problem was a bummer(jk)
+15:25 16:25 uhunt problem solving
+14:21 15:01 ........
+10:20 11:01 Pandora Radio()
+16:30 17:00 Reading (I need more time to cram for the test).
+12:00 12:37 Can't decide what to do, I guess I'll just take a nap.
+17:30 17:54 Late night porn
+4
+14:47 17:04 Popcorn mmmm.....
+10:16 11:05 I still watch popeye(Please don't tell anyone)
+17:30 17:50 Cleaning up the mess
+13:18 14:01 Whoaa
+2
+16:00 18:00 Shit happened today
+11:59 14:01 I tried for 4 hours, but still couldn't solve problem 10191
